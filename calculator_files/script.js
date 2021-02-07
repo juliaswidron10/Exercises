@@ -50,6 +50,7 @@ const showResult = (result) => {
 clearbutton.addEventListener("click", e=>{
     window.location.reload();
 })
+
 calculate.addEventListener("click", calculation);
 
 // console.log(input1);
