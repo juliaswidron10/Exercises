@@ -18,6 +18,7 @@ const generateCustomerBar = () =>{
     newDay.classList.add('oldDay')
     dayNumber++;
     listOfDays.appendChild(newDay);
+    // I know it supposed to be 40 but it looks better when it's just 30
     if(dayNumber > 30){
         listOfDays.removeChild(listOfDays.childNodes[0]);
     }
