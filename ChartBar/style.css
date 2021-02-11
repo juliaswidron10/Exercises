@@ -1,0 +1,40 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    color: #262F40;
+    font-size: 16px;
+}
+body{
+    background-color: mistyrose;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    align-items: flex-end;
+    overflow-x:unset;
+    width: 100%;
+    height: 25rem;
+    margin-top: 2rem;
+    background-color: oldlace;
+    justify-content: flex-start;
+}
+ul> li{
+    width: 2vw;
+    height: 20rem;
+    background-color: palevioletred;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+}
+em{
+    margin-top: 0;
+    padding-left: 2rem;
+
+}
