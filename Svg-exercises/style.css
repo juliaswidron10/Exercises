@@ -2,6 +2,8 @@ body{
     background-image:url('homework.svg');
     background-size: 100%;
     background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
 }
 section{
     background-image: url('car.svg');
