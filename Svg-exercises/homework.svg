@@ -1,0 +1,62 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="#93bdce" />
+  <rect width="35%" height="170%" fill="#f26d72" y="30" x="150"/>
+  <rect width="40%" height="4%" fill="#485a77" y="40" x="142.5"/>
+   <rect width="6%" height="4%" fill="#a1464a" y="10" x="220"/>
+   <!-- <path d="M 0 10 C 20 20, 40 20, 50 10" stroke="black" fill="transparent"/> -->
+  <polygon points="145 45, 155 15,  250 15, 260 45" fill="#485a77"/>
+<circle cx="180" cy="140" r="16"  stroke="#485a78" fill="#f48178" stroke-width="9" x="205"/>
+<rect width="13.5%" height="34%" fill="#485a77" y="138" x="160"/>
+
+  <g >
+  <rect width="13%" height="28%" fill="#f48178" stroke="#485a78" stroke-width="2" x="205" y="60" />
+  <line stroke="#485a78" stroke-width="2" x1="225" x2="225" y1="60" y2="115" />
+  <line stroke="#485a78" stroke-width="2" x1="205" x2="245" y1="73" y2="73" />  
+    </g>  
+
+   <g>
+  <rect width="13%" height="28%" fill="#f48178" stroke="#485a78" stroke-width="2" x="160" y="60" />
+  <line stroke="#485a78" stroke-width="2" x1="180" x2="180" y1="60" y2="115" />
+  <line stroke="#485a78" stroke-width="2" x1="160" x2="200" y1="73" y2="73" />  
+    </g>   
+
+ <g>
+  <rect width="13%" height="28%" fill="#f48178" stroke="#485a78" stroke-width="2" x="205" y="120" />
+  <line stroke="#485a78" stroke-width="2" x1="225" x2="225" y1="120" y2="175" />
+  <line stroke="#485a78" stroke-width="2" x1="205" x2="245" y1="133" y2="133" />  
+    </g>  
+  
+  <g>
+  <circle cx="100" cy="175" r="16" fill="#007178"/>
+  <polygon points="84 173, 100 100, 116 173" fill="#007178"/>
+  <line stroke="white" stroke-width="1" x1="100" x2="100" y1="125" y2="200" />
+  <line stroke="white" stroke-width="1" x1="100" x2="107" y1="153" y2="143" />  
+  <line stroke="white" stroke-width="1" x1="100" x2="90" y1="176" y2="161" />  
+  </g>
+
+
+  <g>
+  <circle cx="65" cy="168" r="22" fill="#1d4e68"/>
+  <polygon points="43 165, 63 90, 87 165" fill="#1d4e68"/>
+  <line stroke="white" stroke-width="1" x1="63" x2="63" y1="120" y2="200" />
+  <line stroke="white" stroke-width="1" x1="63" x2="72" y1="153" y2="133" />  
+  <line stroke="white" stroke-width="1" x1="63" x2="50" y1="176" y2="161" />  
+  </g>
+
+ <g>
+  <circle cx="276" cy="168" r="19" fill="#1d4e68"/>
+  <polygon points="257 165, 276 90, 295 165" fill="#1d4e68"/>
+  <line stroke="white" stroke-width="1" x1="276" x2="276" y1="120" y2="200" />
+  <line stroke="white" stroke-width="1" x1="276" x2="285" y1="153" y2="133" />  
+  <line stroke="white" stroke-width="1" x1="276" x2="261" y1="171" y2="161" />  
+  </g>
+  <rect width="100%" height="3%" fill="#194e77"  y="195"/>
+  <!-- <circle cx="150" cy="100" r="80" fill="green" />
+
+  <text x="150" y="125" font-size="60" text-anchor="middle" fill="white">SVG</text> -->
+
+</svg>
