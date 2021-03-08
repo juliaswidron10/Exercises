@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #878787;
+    justify-content: center;
+    padding: 10vw;
+    font-size: 24px;
+}
+body > span{
+    font-size: 2rem;
+    opacity: 0;
+}
+.animation{
+    animation: fadeIn 2s ease-in forwards;
+    animation-timing-function: cubic-bezier(.05,1.09,.41,1.45);
+    /* animation-delay: 2s; */
+}
+
+@keyframes fadeIn {
+    0%{
+        transform: translate(0, 0);
+        opacity: 0;
+    }
+    100%{
+        transform: translate(20px, -20px);
+        opacity: 100%;
+    }
+}
